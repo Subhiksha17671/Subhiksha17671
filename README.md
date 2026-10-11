@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Subhiksha Uday!
+# Hi there 👋, I'm Subhiksha U Gowda!
 
 🎓 BCA Graduate  
 ☁️ Currently learning Cloud Computing  
