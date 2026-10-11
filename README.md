@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Subhiksha Uday!
 
-<!--
-**Subhiksha17671/Subhiksha17671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate  
+☁️ Currently learning Cloud Computing  
+💻 Exploring SQL, MySQL, and Web Development  
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- I'm building my technical skills through hands-on practice.
+- I'm interested in cloud technologies and software development.
+- I'm working towards building projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills I'm Learning
+- SQL & MySQL
+- Cloud Computing
+- HTML & CSS
+- Git & GitHub
+
+## 🎯 2026 Goals
+- Build and publish my first projects.
+- Improve my database and web development skills.
+- Create a portfolio showcasing my work.
+
+## 📫 Connect With Me
+- GitHub: [@Subhiksha17671](https://github.com/Subhiksha17671)
+
+---
+✨ *Learning something new every day!*
